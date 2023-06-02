@@ -1,0 +1,16 @@
+[ ] - create a docker compose file for the database
+[ ] - create a new nest app
+[ ] - create a product module
+[ ] - create a product controller
+[ ] - create a product service
+[ ] - connect to the database
+[ ] - connect a product schema ({
+            name
+            price
+            description
+        })
+[ ] - Create a new product (input - ({ name, price, desc (optional) }))
+[ ] - Find All products
+[ ] - Find product by id
+[ ] - Update product by id
+[ ] - Delete product by id
